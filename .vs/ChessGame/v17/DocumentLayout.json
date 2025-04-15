@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\",
+  "WorkspaceRootPath": "C:\\Users\\voima\\source\\repos\\ChessGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|c:\\users\\voima\\source\\repos\\v.epishin_17r\\teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|c:\\users\\voima\\source\\repos\\chessgame\\teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|solutionrelative:teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|c:\\users\\voima\\source\\repos\\v.epishin_17r\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|c:\\users\\voima\\source\\repos\\v.epishin_17r\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|solutionrelative:playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|c:\\users\\voima\\source\\repos\\v.epishin_17r\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|ChessGame.csproj|solutionrelative:playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\enemyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:teamforms\\teamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\playerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\statisticforms\\statisticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\statisticforms\\statisticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:statisticforms\\statisticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\gameforms\\gamechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\gameforms\\gamechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:gameforms\\gamechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\gameforms\\gamechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\gameforms\\gamechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:gameforms\\gamechangeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\gameforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\gameforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:gameforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\firedplayersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\firedplayersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\firedplayersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\firedplayersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\firedplayersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\firedplayersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\teamviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\teamviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\teamviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\teamviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\teamviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\teamviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\gameforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\gameforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:gameforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\statisticforms\\statisticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\statisticforms\\statisticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:statisticforms\\statisticform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\enemyselectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\enemyselectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\enemyselectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\v.epishin_17R\\playerforms\\teamchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|C:\\Users\\voima\\source\\repos\\ChessGame\\playerforms\\teamchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DA86F88-3C1E-4467-B49A-0CFD35282D43}|v.epishin_17R.csproj|solutionrelative:playerforms\\teamchoose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -116,47 +116,44 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\Form1.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:42:40.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T17:42:40.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EnemyForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemyForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\EnemyForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemyForm.cs",
               "RelativeToolTip": "PlayerForms\\EnemyForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:42:41.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T17:42:41.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "EnemyForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemyForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\EnemyForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs [Design]",
-              "RelativeToolTip": "PlayerForms\\EnemyForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\PlayerForms\\EnemyForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T17:42:41.147Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-15T17:42:41.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EnemyForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemyForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\EnemyForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemyForm.cs",
               "RelativeToolTip": "PlayerForms\\EnemyForm.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,10 +163,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EnemyForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemyForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\EnemyForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemyForm.cs [Design]",
-              "RelativeToolTip": "PlayerForms\\EnemyForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\PlayerForms\\EnemyForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T21:56:40.116Z"
             },
@@ -177,10 +174,10 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "FiredPlayersForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\FiredPlayersForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\FiredPlayersForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\FiredPlayersForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\FiredPlayersForm.cs [Design]",
-              "RelativeToolTip": "PlayerForms\\FiredPlayersForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\PlayerForms\\FiredPlayersForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T21:52:42.019Z"
             },
@@ -188,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "TeamViewForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\TeamViewForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\TeamViewForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\TeamViewForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\TeamViewForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\TeamViewForm.cs",
               "RelativeToolTip": "PlayerForms\\TeamViewForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,10 +197,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "TeamViewForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\TeamViewForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\TeamViewForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\TeamViewForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\TeamViewForm.cs [Design]",
-              "RelativeToolTip": "PlayerForms\\TeamViewForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\PlayerForms\\TeamViewForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T21:52:26.357Z"
             },
@@ -211,10 +208,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "PlayerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\PlayerForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\PlayerForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\PlayerForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\PlayerForm.cs [Design]",
-              "RelativeToolTip": "PlayerForms\\PlayerForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\PlayerForms\\PlayerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T21:39:40.494Z"
             },
@@ -222,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "FiredPlayersForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\FiredPlayersForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\FiredPlayersForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\FiredPlayersForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\FiredPlayersForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\FiredPlayersForm.cs",
               "RelativeToolTip": "PlayerForms\\FiredPlayersForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -234,9 +231,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "StatisticForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\StatisticForms\\StatisticForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\StatisticForms\\StatisticForm.cs",
               "RelativeDocumentMoniker": "StatisticForms\\StatisticForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\StatisticForms\\StatisticForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\StatisticForms\\StatisticForm.cs",
               "RelativeToolTip": "StatisticForms\\StatisticForm.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAkwPgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,10 +243,10 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "StatisticForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\StatisticForms\\StatisticForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\StatisticForms\\StatisticForm.cs",
               "RelativeDocumentMoniker": "StatisticForms\\StatisticForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\StatisticForms\\StatisticForm.cs [Design]",
-              "RelativeToolTip": "StatisticForms\\StatisticForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\StatisticForms\\StatisticForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T19:16:00.436Z"
             },
@@ -257,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "TeamChoose.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\TeamChoose.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\TeamChoose.cs",
               "RelativeDocumentMoniker": "PlayerForms\\TeamChoose.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\TeamChoose.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\TeamChoose.cs",
               "RelativeToolTip": "PlayerForms\\TeamChoose.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,9 +266,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "EnemySelectForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemySelectForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemySelectForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\EnemySelectForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\EnemySelectForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\EnemySelectForm.cs",
               "RelativeToolTip": "PlayerForms\\EnemySelectForm.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAqwPoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,9 +278,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PlayerForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\PlayerForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\PlayerForm.cs",
               "RelativeDocumentMoniker": "PlayerForms\\PlayerForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\PlayerForms\\PlayerForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\PlayerForms\\PlayerForm.cs",
               "RelativeToolTip": "PlayerForms\\PlayerForm.cs",
               "ViewState": "AgIAAC8BAAAAAAAAAAAqwEIBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "GameChangeForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameChangeForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\GameForms\\GameChangeForm.cs",
               "RelativeDocumentMoniker": "GameForms\\GameChangeForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameChangeForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\GameForms\\GameChangeForm.cs",
               "RelativeToolTip": "GameForms\\GameChangeForm.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAhwL4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,10 +302,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "GameChangeForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameChangeForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\GameForms\\GameChangeForm.cs",
               "RelativeDocumentMoniker": "GameForms\\GameChangeForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameChangeForm.cs [Design]",
-              "RelativeToolTip": "GameForms\\GameChangeForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\GameForms\\GameChangeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T16:49:13.981Z"
             },
@@ -316,9 +313,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "GameForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\GameForms\\GameForm.cs",
               "RelativeDocumentMoniker": "GameForms\\GameForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\GameForms\\GameForm.cs",
               "RelativeToolTip": "GameForms\\GameForm.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,10 +325,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "GameForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\GameForms\\GameForm.cs",
               "RelativeDocumentMoniker": "GameForms\\GameForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\GameForms\\GameForm.cs [Design]",
-              "RelativeToolTip": "GameForms\\GameForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\GameForms\\GameForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T14:50:00.541Z"
             },
@@ -339,9 +336,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TeamForm.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\TeamForms\\TeamForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\TeamForms\\TeamForm.cs",
               "RelativeDocumentMoniker": "TeamForms\\TeamForm.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\TeamForms\\TeamForm.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\TeamForms\\TeamForm.cs",
               "RelativeToolTip": "TeamForms\\TeamForm.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAQwFcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,21 +349,20 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TeamForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\TeamForms\\TeamForm.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\TeamForms\\TeamForm.cs",
               "RelativeDocumentMoniker": "TeamForms\\TeamForm.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\TeamForms\\TeamForm.cs [Design]",
-              "RelativeToolTip": "TeamForms\\TeamForm.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\TeamForms\\TeamForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:45:13.711Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-26T13:45:13.711Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\Form1.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\ChessGame\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAwwDAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,10 +372,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\ChessGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\v.epishin_17R\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\v.epishin_17R\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T00:40:05.636Z"
             }
